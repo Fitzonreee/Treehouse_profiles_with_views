@@ -1,4 +1,4 @@
-var Profile = require("js/profile.js"); //make sure this still works
+var Profile = require("../js/profile.js"); //make sure this still works
 
 
 var studentProfile = new Profile("chalkers");
