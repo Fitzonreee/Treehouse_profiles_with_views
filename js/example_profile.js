@@ -1,10 +1,10 @@
-var Profile = require("./profile.js");
+var Profile = require("js/profile.js"); //make sure this still works
 
 
 var studentProfile = new Profile("chalkers");
 
 /**
-* When the JSON body is fully recieved the 
+* When the JSON body is fully recieved the
 * the "end" event is triggered and the full body
 * is given to the handler or callback
 **/
