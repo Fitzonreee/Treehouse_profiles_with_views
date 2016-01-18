@@ -1,5 +1,5 @@
 var EventEmitter = require("events").EventEmitter;
-// var http = require("http");
+var http = require("http");
 var https = require("https");
 var util = require("util");
 
